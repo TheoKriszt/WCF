@@ -1,0 +1,10 @@
+c:\users\theo\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\ServiceHostApp.exe.config
+c:\users\theo\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\ServiceHostApp.exe
+c:\users\theo\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\ServiceHostApp.pdb
+c:\users\theo\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\WcfServiceLibrary.dll
+c:\users\theo\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\WcfServiceLibrary.pdb
+c:\users\theo\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\WcfServiceLibrary.dll.config
+c:\users\theo\source\repos\ServiceHostApp\ServiceHostApp\obj\Debug\ServiceHostApp.csprojResolveAssemblyReference.cache
+c:\users\theo\source\repos\ServiceHostApp\ServiceHostApp\obj\Debug\ServiceHostApp.csproj.CoreCompileInputs.cache
+c:\users\theo\source\repos\ServiceHostApp\ServiceHostApp\obj\Debug\ServiceHostApp.exe
+c:\users\theo\source\repos\ServiceHostApp\ServiceHostApp\obj\Debug\ServiceHostApp.pdb

@@ -1,0 +1,10 @@
+c:\users\theo\source\repos\WcfClient\WcfClient\bin\Debug\WcfClient.exe.config
+c:\users\theo\source\repos\WcfClient\WcfClient\bin\Debug\WcfClient.exe
+c:\users\theo\source\repos\WcfClient\WcfClient\bin\Debug\WcfClient.pdb
+c:\users\theo\source\repos\WcfClient\WcfClient\bin\Debug\WcfServiceLibrary.dll
+c:\users\theo\source\repos\WcfClient\WcfClient\bin\Debug\WcfServiceLibrary.pdb
+c:\users\theo\source\repos\WcfClient\WcfClient\bin\Debug\WcfServiceLibrary.dll.config
+c:\users\theo\source\repos\WcfClient\WcfClient\obj\Debug\WcfClient.csprojResolveAssemblyReference.cache
+c:\users\theo\source\repos\WcfClient\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+c:\users\theo\source\repos\WcfClient\WcfClient\obj\Debug\WcfClient.exe
+c:\users\theo\source\repos\WcfClient\WcfClient\obj\Debug\WcfClient.pdb
